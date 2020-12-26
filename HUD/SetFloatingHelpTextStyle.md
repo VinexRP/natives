@@ -6,14 +6,14 @@ aliases: ["0x788E7FD431BD67F1"]
 
 ```c
 // 0x788E7FD431BD67F1 0x97852A82
-void SET_FLOATING_HELP_TEXT_STYLE(Any p0, Any p1, Any p2, Any p3, Any p4, Any p5);
+void SET_FLOATING_HELP_TEXT_STYLE(Int hudIndex, Bool balloon, Int Color, Any p3, Int SidePosition, Int PointOffset);
 ```
 
 ## Parameters
-* **p0**: 
-* **p1**: 
-* **p2**: 
+* **hudIndex**: 
+* **balloon**: 
+* **color**: 
 * **p3**: 
-* **p4**: 
-* **p5**: 
+* **SidePosition**: 
+* **PointOffset**: 
 
